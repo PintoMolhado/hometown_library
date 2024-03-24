@@ -337,6 +337,7 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["solid"] = true,
             ["text"] = "* (Well-cared-for flowers.)"
           }
         }

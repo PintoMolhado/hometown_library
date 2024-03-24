@@ -42,6 +42,7 @@
   </object>
   <object id="9" name="interactable" x="120" y="360" width="40" height="40">
    <properties>
+    <property name="solid" type="bool" value="true"/>
     <property name="text" value="* (Well-cared-for flowers.)"/>
    </properties>
   </object>
