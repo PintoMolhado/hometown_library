@@ -1,0 +1,20 @@
+{
+    "maps": [
+        {
+            "fileName": "krisyard/krisyard.tmx",
+            "height": 640,
+            "width": 840,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "fileName": "town_north/town_north.tmx",
+            "height": 480,
+            "width": 800,
+            "x": 880,
+            "y": -120
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}
