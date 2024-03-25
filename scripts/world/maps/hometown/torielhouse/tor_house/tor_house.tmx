@@ -61,7 +61,7 @@
     <property name="sound" value="doortransition"/>
    </properties>
   </object>
-  <object id="19" name="transition" x="276" y="192" width="66" height="40">
+  <object id="19" name="transition" x="276" y="154" width="66" height="36">
    <properties>
     <property name="facing" value="down"/>
     <property name="map" value="hometown/torielhouse/toriel_hallway"/>
@@ -128,7 +128,7 @@
   <object id="33" name="entrybathroom" x="246" y="366">
    <point/>
   </object>
-  <object id="34" name="spawn" x="310" y="270">
+  <object id="34" name="spawn" x="310" y="222">
    <point/>
   </object>
   <object id="35" name="entryeast" x="1158" y="346">
