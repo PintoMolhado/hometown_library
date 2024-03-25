@@ -10,7 +10,7 @@ return {
   tilewidth = 40,
   tileheight = 40,
   nextlayerid = 13,
-  nextobjectid = 42,
+  nextobjectid = 43,
   properties = {
     ["border"] = "leaves",
     ["light"] = true,
@@ -735,6 +735,21 @@ return {
           rotation = 0,
           visible = true,
           properties = {}
+        },
+        {
+          id = 42,
+          name = "interactable",
+          type = "",
+          shape = "rectangle",
+          x = 240,
+          y = 2280,
+          width = 160,
+          height = 40,
+          rotation = 0,
+          visible = true,
+          properties = {
+            ["text"] = "* (It's locked.)"
+          }
         }
       }
     },
