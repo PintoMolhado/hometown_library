@@ -243,7 +243,7 @@
     <property name="marker" value="entrysouth"/>
    </properties>
   </object>
-  <object id="36" name="transition" x="800" y="1280" width="160" height="40">
+  <object id="36" name="transition" x="760" y="1280" width="240" height="40">
    <properties>
     <property name="facing" value="down"/>
     <property name="map" value="hometown/town_shelter"/>
