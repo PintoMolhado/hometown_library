@@ -212,6 +212,7 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["solid"] = true,
             ["text"] = "* (It's a saucer of milk.)"
           }
         }

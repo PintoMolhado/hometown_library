@@ -110,7 +110,7 @@
  </group>
  <objectgroup color="#5500ff" id="9" name="collision">
   <object id="3" x="2760" y="0" width="160" height="220"/>
-  <object id="4" x="1880" y="0" width="880" height="100"/>
+  <object id="4" x="1880" y="0" width="880" height="152"/>
   <object id="5" x="1760" y="0" width="120" height="220"/>
   <object id="6" x="1440" y="0" width="120" height="140"/>
   <object id="7" x="120" y="0" width="1320" height="100"/>

@@ -10,10 +10,11 @@ return {
   tilewidth = 40,
   tileheight = 40,
   nextlayerid = 13,
-  nextobjectid = 41,
+  nextobjectid = 42,
   properties = {
     ["border"] = "leaves",
-    ["light"] = true
+    ["light"] = true,
+    ["music"] = "birdnoise"
   },
   tilesets = {
     {
@@ -708,19 +709,6 @@ return {
           }
         },
         {
-          id = 25,
-          name = "sheltersound",
-          type = "",
-          shape = "rectangle",
-          x = 240,
-          y = 2160,
-          width = 160,
-          height = 160,
-          rotation = 0,
-          visible = true,
-          properties = {}
-        },
-        {
           id = 27,
           name = "npc",
           type = "",
@@ -734,6 +722,19 @@ return {
           properties = {
             ["actor"] = "shelter"
           }
+        },
+        {
+          id = 41,
+          name = "sheltersound",
+          type = "",
+          shape = "point",
+          x = 320,
+          y = 2320,
+          width = 0,
+          height = 0,
+          rotation = 0,
+          visible = true,
+          properties = {}
         }
       }
     },

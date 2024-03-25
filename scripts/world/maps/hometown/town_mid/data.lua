@@ -273,7 +273,7 @@ return {
           x = 1880,
           y = 0,
           width = 880,
-          height = 100,
+          height = 152,
           rotation = 0,
           visible = true,
           properties = {}
