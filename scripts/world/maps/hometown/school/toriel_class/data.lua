@@ -14,7 +14,7 @@ return {
   properties = {
     ["border"] = "leaves",
     ["light"] = true,
-    ["music"] = "hometown"
+    ["music"] = "school"
   },
   tilesets = {
     {

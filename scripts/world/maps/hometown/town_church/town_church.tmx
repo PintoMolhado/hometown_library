@@ -204,7 +204,7 @@
   <object id="2" x="460" y="380" width="270" height="276"/>
   <object id="3" x="0" y="0" width="440" height="680"/>
   <object id="4" x="440" y="0" width="280" height="320"/>
-  <object id="15" x="1000" y="920" width="480" height="360"/>
+  <object id="15" x="994" y="920" width="486" height="360"/>
   <object id="17" x="1080" y="680" width="400" height="200"/>
   <object id="19" x="1080" y="640" width="400" height="40"/>
   <object id="20" x="1400" y="0" width="80" height="640"/>
@@ -226,7 +226,7 @@
   <object id="47" x="720" y="880">
    <polygon points="0,0 40,40 0,40"/>
   </object>
-  <object id="49" x="720" y="920" width="40" height="360"/>
+  <object id="49" x="720" y="920" width="46" height="360"/>
  </objectgroup>
  <objectgroup color="#ff00ff" id="9" name="objects">
   <object id="33" name="transition" x="-40" y="680" width="40" height="200">
