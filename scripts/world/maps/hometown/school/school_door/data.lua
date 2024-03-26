@@ -10,7 +10,7 @@ return {
   tilewidth = 40,
   tileheight = 40,
   nextlayerid = 6,
-  nextobjectid = 24,
+  nextobjectid = 25,
   properties = {
     ["border"] = "leaves",
     ["light"] = true,
@@ -283,6 +283,21 @@ return {
             ["map"] = "hometown/school/unused_class",
             ["marker"] = "spawn",
             ["sound"] = "doortransition"
+          }
+        },
+        {
+          id = 24,
+          name = "interactable",
+          type = "",
+          shape = "rectangle",
+          x = 560,
+          y = 200,
+          width = 120,
+          height = 40,
+          rotation = 0,
+          visible = true,
+          properties = {
+            ["text"] = "* (It's locked.)"
           }
         }
       }
