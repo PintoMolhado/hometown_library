@@ -10,7 +10,7 @@ return {
   tilewidth = 40,
   tileheight = 40,
   nextlayerid = 23,
-  nextobjectid = 50,
+  nextobjectid = 51,
   properties = {
     ["border"] = "leaves",
     ["light"] = true,
@@ -424,9 +424,9 @@ return {
           name = "",
           type = "",
           shape = "rectangle",
-          x = 1080,
+          x = 1074,
           y = 680,
-          width = 400,
+          width = 406,
           height = 200,
           rotation = 0,
           visible = true,
@@ -437,9 +437,9 @@ return {
           name = "",
           type = "",
           shape = "rectangle",
-          x = 1080,
+          x = 1120,
           y = 640,
-          width = 400,
+          width = 360,
           height = 40,
           rotation = 0,
           visible = true,
@@ -640,6 +640,24 @@ return {
           height = 360,
           rotation = 0,
           visible = true,
+          properties = {}
+        },
+        {
+          id = 50,
+          name = "",
+          type = "",
+          shape = "polygon",
+          x = 1120,
+          y = 640,
+          width = 0,
+          height = 0,
+          rotation = 0,
+          visible = true,
+          polygon = {
+            { x = 0, y = 0 },
+            { x = -40, y = 40 },
+            { x = 0, y = 40 }
+          },
           properties = {}
         }
       }

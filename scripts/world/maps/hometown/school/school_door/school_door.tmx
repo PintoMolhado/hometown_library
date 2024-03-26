@@ -64,11 +64,6 @@
     <property name="text" value="* (The door is locked.)"/>
    </properties>
   </object>
-  <object id="20" name="interactable" x="560" y="196" width="120" height="40">
-   <properties>
-    <property name="cutscene" value="enterdark"/>
-   </properties>
-  </object>
   <object id="21" name="darkdoor" x="576" y="120" width="88" height="112"/>
   <object id="22" name="transition" x="1000" y="198" width="80" height="40">
    <properties>

@@ -263,6 +263,22 @@ return {
       }
     },
     {
+      type = "imagelayer",
+      image = "../../../../../assets/sprites/world/maps/hometown/school.png",
+      id = 18,
+      name = "school",
+      class = "",
+      visible = true,
+      opacity = 1,
+      offsetx = 420,
+      offsety = -110,
+      parallaxx = 1,
+      parallaxy = 1,
+      repeatx = false,
+      repeaty = false,
+      properties = {}
+    },
+    {
       type = "tilelayer",
       x = 0,
       y = 0,
@@ -333,22 +349,6 @@ return {
         0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 190, 151, 152,
         0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 151, 152, 151
       }
-    },
-    {
-      type = "imagelayer",
-      image = "../../../../../assets/sprites/world/maps/hometown/school.png",
-      id = 18,
-      name = "school",
-      class = "",
-      visible = true,
-      opacity = 1,
-      offsetx = 420,
-      offsety = -110,
-      parallaxx = 1,
-      parallaxy = 1,
-      repeatx = false,
-      repeaty = false,
-      properties = {}
     },
     {
       type = "objectgroup",

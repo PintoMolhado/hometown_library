@@ -255,21 +255,6 @@ return {
           }
         },
         {
-          id = 20,
-          name = "interactable",
-          type = "",
-          shape = "rectangle",
-          x = 560,
-          y = 196,
-          width = 120,
-          height = 40,
-          rotation = 0,
-          visible = true,
-          properties = {
-            ["cutscene"] = "enterdark"
-          }
-        },
-        {
           id = 21,
           name = "darkdoor",
           type = "",
