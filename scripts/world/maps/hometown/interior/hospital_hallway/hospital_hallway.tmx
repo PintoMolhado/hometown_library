@@ -25,7 +25,7 @@
  <objectgroup color="#ff00ff" id="4" name="objects">
   <object id="14" name="transition" x="158" y="160" width="82" height="40">
    <properties>
-    <property name="exit_delay" type="int" value="1"/>
+    <property name="exit_delay" type="float" value="0.3"/>
     <property name="exit_sound" value="doorclose"/>
     <property name="facing" value="up"/>
     <property name="map" value="hometown/interior/hospital_rudy"/>
@@ -35,7 +35,7 @@
   </object>
   <object id="16" name="transition" x="398" y="160" width="82" height="40">
    <properties>
-    <property name="exit_delay" type="int" value="1"/>
+    <property name="exit_delay" type="float" value="0.3"/>
     <property name="exit_sound" value="doorclose"/>
     <property name="facing" value="up"/>
     <property name="map" value="hometown/interior/hospital_room2"/>

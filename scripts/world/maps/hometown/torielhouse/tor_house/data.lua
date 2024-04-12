@@ -339,7 +339,7 @@ return {
           rotation = 0,
           visible = true,
           properties = {
-            ["exit_delay"] = 1,
+            ["exit_delay"] = 0.3,
             ["exit_sound"] = "doorclose",
             ["facing"] = "left",
             ["map"] = "hometown/torielhouse/toriel_bathroom",
@@ -359,7 +359,7 @@ return {
           rotation = 0,
           visible = true,
           properties = {
-            ["exit_delay"] = 1,
+            ["exit_delay"] = 0.3,
             ["exit_sound"] = "doorclose",
             ["facing"] = "down",
             ["map"] = "hometown/krisyard",
@@ -379,7 +379,7 @@ return {
           rotation = 0,
           visible = true,
           properties = {
-            ["exit_delay"] = 1,
+            ["exit_delay"] = 0.3,
             ["facing"] = "down",
             ["map"] = "hometown/torielhouse/toriel_hallway",
             ["marker"] = "entryeast",

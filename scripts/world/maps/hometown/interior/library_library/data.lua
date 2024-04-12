@@ -197,6 +197,7 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["exit_delay"] = 0.3,
             ["facing"] = "down",
             ["map"] = "hometown/interior/library_lobby",
             ["marker"] = "entrylibrary",

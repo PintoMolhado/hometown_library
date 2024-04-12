@@ -2,10 +2,10 @@
     "maps": [
         {
             "fileName": "krisyard/krisyard.tmx",
-            "height": 640,
-            "width": 840,
+            "height": 840,
+            "width": 640,
             "x": 0,
-            "y": 0
+            "y": 80
         },
         {
             "fileName": "town_north/town_north.tmx",
@@ -19,14 +19,14 @@
             "height": 480,
             "width": 4080,
             "x": -840,
-            "y": 1960
+            "y": 1880
         },
         {
             "fileName": "town_south/town_south.tmx",
             "height": 480,
             "width": 2640,
             "x": -880,
-            "y": 3000
+            "y": 2560
         },
         {
             "fileName": "apartments/apartments.tmx",
@@ -40,28 +40,28 @@
             "height": 1280,
             "width": 1520,
             "x": -40,
-            "y": 3560
+            "y": 3040
         },
         {
             "fileName": "town_school/town_school.tmx",
             "height": 640,
             "width": 1160,
-            "x": 1840,
-            "y": 2840
+            "x": 1760,
+            "y": 2400
         },
         {
             "fileName": "town_graveyard/town_graveyard.tmx",
             "height": 480,
             "width": 1200,
-            "x": -1360,
-            "y": 4000
+            "x": -1240,
+            "y": 3480
         },
         {
             "fileName": "town_shelter/town_shelter.tmx",
             "height": 2480,
             "width": 640,
             "x": 520,
-            "y": 4920
+            "y": 4320
         }
     ],
     "onlyShowAdjacentMaps": false,

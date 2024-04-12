@@ -718,7 +718,7 @@ return {
           rotation = 0,
           visible = true,
           properties = {
-            ["exit_delay"] = 1,
+            ["exit_delay"] = 0.3,
             ["exit_sound"] = "doorclose",
             ["facing"] = "up",
             ["map"] = "hometown/interior/qc_diner",
@@ -754,7 +754,7 @@ return {
           rotation = 0,
           visible = true,
           properties = {
-            ["exit_delay"] = 1,
+            ["exit_delay"] = 0.3,
             ["exit_sound"] = "doorclose",
             ["facing"] = "up",
             ["map"] = "hometown/interior/sans_store",
@@ -774,7 +774,7 @@ return {
           rotation = 0,
           visible = true,
           properties = {
-            ["exit_delay"] = 1,
+            ["exit_delay"] = 0.3,
             ["exit_sound"] = "doorclose",
             ["facing"] = "up",
             ["map"] = "hometown/interior/icee_room",

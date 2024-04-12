@@ -164,7 +164,7 @@
   </object>
   <object id="31" name="transition" x="1194" y="192" width="58" height="40">
    <properties>
-    <property name="exit_delay" type="int" value="1"/>
+    <property name="exit_delay" type="float" value="0.3"/>
     <property name="exit_sound" value="doorclose"/>
     <property name="facing" value="up"/>
     <property name="map" value="hometown/interior/qc_diner"/>
@@ -180,7 +180,7 @@
   </object>
   <object id="33" name="transition" x="2172" y="168" width="86" height="40">
    <properties>
-    <property name="exit_delay" type="int" value="1"/>
+    <property name="exit_delay" type="float" value="0.3"/>
     <property name="exit_sound" value="doorclose"/>
     <property name="facing" value="up"/>
     <property name="map" value="hometown/interior/sans_store"/>
@@ -190,7 +190,7 @@
   </object>
   <object id="35" name="transition" x="610" y="192" width="110" height="40">
    <properties>
-    <property name="exit_delay" type="int" value="1"/>
+    <property name="exit_delay" type="float" value="0.3"/>
     <property name="exit_sound" value="doorclose"/>
     <property name="facing" value="up"/>
     <property name="map" value="hometown/interior/icee_room"/>

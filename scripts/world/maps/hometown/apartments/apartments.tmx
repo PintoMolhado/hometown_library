@@ -61,7 +61,7 @@
    </properties>
   </object>
  </objectgroup>
- <objectgroup id="5" name="markers">
+ <objectgroup color="#ff00ff" id="5" name="markers">
   <object id="5" name="spawn" x="320" y="440">
    <point/>
   </object>

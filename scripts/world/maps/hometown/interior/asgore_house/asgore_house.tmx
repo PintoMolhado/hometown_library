@@ -99,7 +99,7 @@
   </object>
   <object id="33" name="transition" x="40" y="468" width="80" height="40">
    <properties>
-    <property name="exit_delay" type="int" value="1"/>
+    <property name="exit_delay" type="float" value="0.3"/>
     <property name="facing" value="down"/>
     <property name="map" value="hometown/interior/flower_shop"/>
     <property name="marker" value="entrywest"/>
@@ -108,7 +108,7 @@
   </object>
   <object id="35" name="transition" x="520" y="468" width="80" height="40">
    <properties>
-    <property name="exit_delay" type="int" value="1"/>
+    <property name="exit_delay" type="float" value="0.3"/>
     <property name="facing" value="down"/>
     <property name="map" value="hometown/interior/flower_shop"/>
     <property name="marker" value="entryeast"/>
