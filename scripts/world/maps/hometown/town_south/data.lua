@@ -651,10 +651,12 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["exit_delay"] = 1,
+            ["exit_sound"] = "doorclose",
             ["facing"] = "up",
             ["map"] = "hometown/interior/hospital_lobby",
             ["marker"] = "spawn",
-            ["sound"] = "doortransition"
+            ["sound"] = "dooropen"
           }
         },
         {
@@ -669,10 +671,12 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["exit_delay"] = 1,
+            ["exit_sound"] = "doorclose",
             ["facing"] = "up",
             ["map"] = "hometown/interior/police_station",
             ["marker"] = "spawn",
-            ["sound"] = "doortransition"
+            ["sound"] = "dooropen"
           }
         },
         {
@@ -687,10 +691,12 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["exit_delay"] = 1,
+            ["exit_sound"] = "doorclose",
             ["facing"] = "up",
             ["map"] = "hometown/interior/library_lobby",
             ["marker"] = "spawn",
-            ["sound"] = "doortransition"
+            ["sound"] = "dooropen"
           }
         },
         {

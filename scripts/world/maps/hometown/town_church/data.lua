@@ -739,6 +739,7 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["exit_delay"] = 1,
             ["facing"] = "up",
             ["map"] = "hometown/interior/town_hall",
             ["marker"] = "spawn",

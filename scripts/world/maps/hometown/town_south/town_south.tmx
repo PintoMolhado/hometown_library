@@ -174,26 +174,32 @@
   </object>
   <object id="27" name="transition" x="1202" y="176" width="80" height="40">
    <properties>
+    <property name="exit_delay" type="int" value="1"/>
+    <property name="exit_sound" value="doorclose"/>
     <property name="facing" value="up"/>
     <property name="map" value="hometown/interior/hospital_lobby"/>
     <property name="marker" value="spawn"/>
-    <property name="sound" value="doortransition"/>
+    <property name="sound" value="dooropen"/>
    </properties>
   </object>
   <object id="30" name="transition" x="486" y="170" width="60" height="40">
    <properties>
+    <property name="exit_delay" type="int" value="1"/>
+    <property name="exit_sound" value="doorclose"/>
     <property name="facing" value="up"/>
     <property name="map" value="hometown/interior/police_station"/>
     <property name="marker" value="spawn"/>
-    <property name="sound" value="doortransition"/>
+    <property name="sound" value="dooropen"/>
    </properties>
   </object>
   <object id="31" name="transition" x="2008" y="174" width="60" height="40">
    <properties>
+    <property name="exit_delay" type="int" value="1"/>
+    <property name="exit_sound" value="doorclose"/>
     <property name="facing" value="up"/>
     <property name="map" value="hometown/interior/library_lobby"/>
     <property name="marker" value="spawn"/>
-    <property name="sound" value="doortransition"/>
+    <property name="sound" value="dooropen"/>
    </properties>
   </object>
   <object id="33" name="interactable" x="0" y="200" width="80" height="240">

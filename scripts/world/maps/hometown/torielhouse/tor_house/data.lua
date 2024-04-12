@@ -339,10 +339,12 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["exit_delay"] = 1,
+            ["exit_sound"] = "doorclose",
             ["facing"] = "left",
             ["map"] = "hometown/torielhouse/toriel_bathroom",
             ["marker"] = "spawn",
-            ["sound"] = "doortransition"
+            ["sound"] = "dooropen"
           }
         },
         {
@@ -357,10 +359,12 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["exit_delay"] = 1,
+            ["exit_sound"] = "doorclose",
             ["facing"] = "down",
             ["map"] = "hometown/krisyard",
             ["marker"] = "entryhouse",
-            ["sound"] = "doortransition"
+            ["sound"] = "dooropen"
           }
         },
         {
@@ -375,6 +379,7 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["exit_delay"] = 1,
             ["facing"] = "down",
             ["map"] = "hometown/torielhouse/toriel_hallway",
             ["marker"] = "entryeast",

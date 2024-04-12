@@ -42,18 +42,22 @@
  <objectgroup color="#ff00ff" id="5" name="objects">
   <object id="22" name="transition" x="200" y="400" width="78" height="40">
    <properties>
+    <property name="exit_delay" type="int" value="1"/>
+    <property name="exit_sound" value="doorclose"/>
     <property name="facing" value="down"/>
     <property name="map" value="hometown/school/kris_class"/>
     <property name="marker" value="spawn"/>
-    <property name="sound" value="doortransition"/>
+    <property name="sound" value="dooropen"/>
    </properties>
   </object>
   <object id="23" name="transition" x="1640" y="400" width="78" height="40">
    <properties>
+    <property name="exit_delay" type="int" value="1"/>
+    <property name="exit_sound" value="doorclose"/>
     <property name="facing" value="down"/>
     <property name="map" value="hometown/school/toriel_class"/>
     <property name="marker" value="spawn"/>
-    <property name="sound" value="doortransition"/>
+    <property name="sound" value="dooropen"/>
    </properties>
   </object>
   <object id="24" name="transition" x="880" y="820" width="120" height="40">
@@ -80,7 +84,7 @@
   <object id="31" name="interactable" x="1112" y="400" width="40" height="40">
    <properties>
     <property name="text">* (You ran the water fountain.)
-[wait:5]* (It's lukewarm.)/</property>
+[wait:5]* (It's lukewarm.)</property>
    </properties>
   </object>
   <object id="32" name="interactable" x="592" y="360" width="114" height="80">

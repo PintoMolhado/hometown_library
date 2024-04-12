@@ -718,10 +718,12 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["exit_delay"] = 1,
+            ["exit_sound"] = "doorclose",
             ["facing"] = "up",
             ["map"] = "hometown/interior/qc_diner",
             ["marker"] = "spawn",
-            ["sound"] = "doortransition"
+            ["sound"] = "dooropen"
           }
         },
         {
@@ -752,10 +754,12 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["exit_delay"] = 1,
+            ["exit_sound"] = "doorclose",
             ["facing"] = "up",
             ["map"] = "hometown/interior/sans_store",
             ["marker"] = "spawn",
-            ["sound"] = "doortransition"
+            ["sound"] = "dooropen"
           }
         },
         {
@@ -770,10 +774,12 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["exit_delay"] = 1,
+            ["exit_sound"] = "doorclose",
             ["facing"] = "up",
             ["map"] = "hometown/interior/icee_room",
             ["marker"] = "spawn",
-            ["sound"] = "doortransition"
+            ["sound"] = "dooropen"
           }
         },
         {

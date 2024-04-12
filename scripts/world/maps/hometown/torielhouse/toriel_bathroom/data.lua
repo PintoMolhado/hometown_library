@@ -194,10 +194,12 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["exit_delay"] = 1,
+            ["exit_sound"] = "doorclose",
             ["facing"] = "right",
             ["map"] = "hometown/torielhouse/tor_house",
             ["marker"] = "entrybathroom",
-            ["sound"] = "doortransition"
+            ["sound"] = "dooropen"
           }
         },
         {

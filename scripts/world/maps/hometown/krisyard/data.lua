@@ -397,10 +397,12 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["exit_delay"] = 1,
+            ["exit_sound"] = "doorclose",
             ["facing"] = "left",
             ["map"] = "hometown/torielhouse/tor_house",
             ["marker"] = "entryeast",
-            ["sound"] = "doortransition"
+            ["sound"] = "dooropen"
           }
         }
       }

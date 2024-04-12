@@ -10,7 +10,7 @@ return {
   tilewidth = 40,
   tileheight = 40,
   nextlayerid = 7,
-  nextobjectid = 31,
+  nextobjectid = 32,
   properties = {
     ["border"] = "leaves",
     ["light"] = true,
@@ -276,10 +276,12 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["exit_delay"] = 1,
+            ["exit_sound"] = "doorclose",
             ["facing"] = "up",
             ["map"] = "hometown/interior/library_computer",
             ["marker"] = "spawn",
-            ["sound"] = "doortransition"
+            ["sound"] = "dooropen"
           }
         },
         {

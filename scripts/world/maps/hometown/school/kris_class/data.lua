@@ -513,10 +513,12 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["exit_delay"] = 1,
+            ["exit_sound"] = "doorclose",
             ["facing"] = "down",
             ["map"] = "hometown/school/school_lobby",
             ["marker"] = "entrykris",
-            ["sound"] = "doortransition"
+            ["sound"] = "dooropen"
           }
         }
       }

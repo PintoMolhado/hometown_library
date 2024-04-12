@@ -249,6 +249,8 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["exit_delay"] = 1,
+            ["exit_sound"] = "doorclose",
             ["facing"] = "down",
             ["map"] = "hometown/interior/hospital_hallway",
             ["marker"] = "entryroom2",

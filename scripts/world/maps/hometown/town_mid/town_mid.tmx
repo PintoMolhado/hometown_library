@@ -164,10 +164,12 @@
   </object>
   <object id="31" name="transition" x="1194" y="192" width="58" height="40">
    <properties>
+    <property name="exit_delay" type="int" value="1"/>
+    <property name="exit_sound" value="doorclose"/>
     <property name="facing" value="up"/>
     <property name="map" value="hometown/interior/qc_diner"/>
     <property name="marker" value="spawn"/>
-    <property name="sound" value="doortransition"/>
+    <property name="sound" value="dooropen"/>
    </properties>
   </object>
   <object id="32" name="interactable" x="2542" y="136" width="68" height="80">
@@ -178,18 +180,22 @@
   </object>
   <object id="33" name="transition" x="2172" y="168" width="86" height="40">
    <properties>
+    <property name="exit_delay" type="int" value="1"/>
+    <property name="exit_sound" value="doorclose"/>
     <property name="facing" value="up"/>
     <property name="map" value="hometown/interior/sans_store"/>
     <property name="marker" value="spawn"/>
-    <property name="sound" value="doortransition"/>
+    <property name="sound" value="dooropen"/>
    </properties>
   </object>
   <object id="35" name="transition" x="610" y="192" width="110" height="40">
    <properties>
+    <property name="exit_delay" type="int" value="1"/>
+    <property name="exit_sound" value="doorclose"/>
     <property name="facing" value="up"/>
     <property name="map" value="hometown/interior/icee_room"/>
     <property name="marker" value="spawn"/>
-    <property name="sound" value="doortransition"/>
+    <property name="sound" value="dooropen"/>
    </properties>
   </object>
   <object id="48" name="interactable" x="744" y="194" width="70" height="40">

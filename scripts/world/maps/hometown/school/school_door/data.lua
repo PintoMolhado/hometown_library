@@ -279,10 +279,12 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["exit_delay"] = 1,
+            ["exit_sound"] = "doorclose",
             ["facing"] = "up",
             ["map"] = "hometown/school/unused_class",
             ["marker"] = "spawn",
-            ["sound"] = "doortransition"
+            ["sound"] = "dooropen"
           }
         },
         {

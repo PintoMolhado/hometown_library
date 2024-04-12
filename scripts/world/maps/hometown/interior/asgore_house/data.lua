@@ -483,6 +483,7 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["exit_delay"] = 1,
             ["facing"] = "down",
             ["map"] = "hometown/interior/flower_shop",
             ["marker"] = "entrywest",
@@ -501,6 +502,7 @@ return {
           rotation = 0,
           visible = true,
           properties = {
+            ["exit_delay"] = 1,
             ["facing"] = "down",
             ["map"] = "hometown/interior/flower_shop",
             ["marker"] = "entryeast",
