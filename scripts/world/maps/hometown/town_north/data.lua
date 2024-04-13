@@ -709,8 +709,8 @@ return {
           name = "",
           type = "",
           shape = "rectangle",
-          x = 2891,
-          y = 200,
+          x = 2883,
+          y = 198,
           width = 146,
           height = 110,
           rotation = 0,
@@ -974,19 +974,6 @@ return {
           properties = {}
         },
         {
-          id = 73,
-          name = "",
-          type = "",
-          shape = "rectangle",
-          x = 2891,
-          y = 90,
-          width = 146,
-          height = 110,
-          rotation = 0,
-          visible = true,
-          properties = {}
-        },
-        {
           id = 74,
           name = "",
           type = "",
@@ -1231,6 +1218,23 @@ return {
           visible = true,
           properties = {
             ["text"] = "* (It's an ornate gate.)\n[wait:5]* (It appears to be locked.)"
+          }
+        },
+        {
+          id = 73,
+          name = "interactable",
+          type = "",
+          shape = "rectangle",
+          x = 2883,
+          y = 88,
+          width = 146,
+          height = 110,
+          rotation = 0,
+          visible = true,
+          properties = {
+            ["solid"] = true,
+            ["text1"] = "* (It's your dad's truck.)",
+            ["text2"] = "* (The floor of the front seat is littered with old papers and country CDs...)"
           }
         }
       }

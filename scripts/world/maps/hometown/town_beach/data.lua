@@ -10,7 +10,7 @@ return {
   tilewidth = 40,
   tileheight = 40,
   nextlayerid = 8,
-  nextobjectid = 11,
+  nextobjectid = 12,
   properties = {
     ["border"] = "leaves",
     ["light"] = true,
@@ -33,18 +33,18 @@ return {
   layers = {
     {
       type = "imagelayer",
-      image = "../../../../../assets/sprites/world/maps/hometown/beachshore.png",
+      image = "../../../../../assets/sprites/world/maps/hometown/room_beach.png",
       id = 7,
       name = "shore",
       class = "",
       visible = true,
       opacity = 1,
-      offsetx = 800,
+      offsetx = 0,
       offsety = 0,
       parallaxx = 1,
       parallaxy = 1,
       repeatx = false,
-      repeaty = true,
+      repeaty = false,
       properties = {}
     },
     {
@@ -198,7 +198,7 @@ return {
       id = 4,
       name = "objects",
       class = "",
-      visible = false,
+      visible = true,
       opacity = 1,
       offsetx = 0,
       offsety = 0,
@@ -206,19 +206,6 @@ return {
       parallaxy = 1,
       properties = {},
       objects = {
-        {
-          id = 6,
-          name = "beachwater",
-          type = "",
-          shape = "rectangle",
-          x = 800,
-          y = 0,
-          width = 400,
-          height = 480,
-          rotation = 0,
-          visible = true,
-          properties = {}
-        },
         {
           id = 7,
           name = "transition",
@@ -261,6 +248,19 @@ return {
           height = 90,
           rotation = 0,
           gid = 329,
+          visible = true,
+          properties = {}
+        },
+        {
+          id = 11,
+          name = "beachwater",
+          type = "",
+          shape = "rectangle",
+          x = 808,
+          y = 0,
+          width = 400,
+          height = 480,
+          rotation = 0,
           visible = true,
           properties = {}
         }
