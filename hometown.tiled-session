@@ -1,37 +1,88 @@
 {
-    "activeFile": "scripts/world/maps/hometown/town_beach/town_beach.tmx",
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/Administrator/AppData/Roaming/LOVE/kristal/mods/evilstuff/scripts/world/maps/lever.tmx",
     "expandedProjectPaths": [
-        "scripts/world/maps/hometown/interior/flower_shop",
-        "scripts/world/maps/hometown/torielhouse/toriel_bathroom",
-        "scripts/world/maps/hometown/torielhouse/tor_house",
-        "scripts/world/maps/hometown/interior/town_hall",
-        "scripts/world/maps/hometown/interior/sans_store",
-        "scripts/world/maps",
         "scripts/world/maps/hometown/interior/police_station",
-        "scripts/world/maps/hometown/interior/icee_room",
-        ".",
-        "scripts/world/maps/hometown/interior/hospital_lobby",
-        "scripts/world/maps/hometown/interior/asgore_house",
-        "scripts/world",
-        "scripts/world/maps/hometown/school/unused_class",
-        "scripts/world/maps/hometown/interior/hospital_room2",
-        "scripts/world/maps/hometown/school/kris_class",
-        "scripts",
-        "scripts/world/maps/hometown/interior",
-        "scripts/world/maps/hometown/school/school_door",
-        "scripts/world/maps/hometown/interior/hospital_rudy",
-        "scripts/world/maps/hometown/school/toriel_class",
         "scripts/world/maps/hometown/interior/library_computer",
         "scripts/world/maps/hometown",
-        "scripts/world/maps/hometown/torielhouse/toriel_hallway",
+        "scripts/world/maps/hometown/school/school_door",
+        "scripts/world/maps/hometown/interior/sans_store",
+        "scripts/world/maps/hometown/school/kris_class",
+        "scripts/world/maps/hometown/interior/icee_room",
+        "scripts/world/maps",
         "scripts/world/maps/hometown/interior/qc_diner",
-        "scripts/world/maps/hometown/interior/library_lobby",
+        "scripts/world",
         "scripts/world/maps/hometown/school/school_lobby",
+        ".",
+        "scripts/world/maps/hometown/interior/town_hall",
+        "scripts/world/maps/hometown/school/toriel_class",
+        "scripts/world/maps/hometown/interior/hospital_lobby",
         "scripts/world/maps/hometown/interior/library_library",
-        "scripts/world/maps/hometown/interior/hospital_hallway"
+        "scripts",
+        "scripts/world/maps/hometown/interior/hospital_room2",
+        "scripts/world/maps/hometown/torielhouse/toriel_bathroom",
+        "scripts/world/maps/hometown/torielhouse/tor_house",
+        "scripts/world/maps/hometown/school/unused_class",
+        "scripts/world/maps/hometown/interior",
+        "scripts/world/maps/hometown/torielhouse/toriel_hallway",
+        "scripts/world/maps/hometown/interior/flower_shop",
+        "scripts/world/maps/hometown/interior/asgore_house",
+        "scripts/world/maps/hometown/interior/library_lobby",
+        "scripts/world/maps/hometown/interior/hospital_hallway",
+        "scripts/world/maps/hometown/interior/hospital_rudy"
     ],
     "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
     "fileStates": {
+        "C:/Users/Administrator/AppData/Roaming/LOVE/kristal/mods/deltarune_our_destiny/scripts/world/tilesets/bakersdesert.tsx": {
+            "dynamicWrapping": false
+        },
+        "C:/Users/Administrator/AppData/Roaming/LOVE/kristal/mods/evilstuff/scripts/world/maps/lever.tmx": {
+            "expandedObjectLayers": [
+                2,
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 318,
+                "y": 363
+            }
+        },
+        "C:/Users/Administrator/AppData/Roaming/LOVE/kristal/mods/evilstuff/scripts/world/tilesets/acidanimated.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Administrator/AppData/Roaming/LOVE/kristal/mods/evilstuff/scripts/world/tilesets/acidfountain.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Administrator/AppData/Roaming/LOVE/kristal/mods/evilstuff/scripts/world/tilesets/mansion.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Administrator/AppData/Roaming/LOVE/kristal/mods/evilstuff/scripts/world/tilesets/mansionacid.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Administrator/Downloads/Kristal/mods/_testmod/scripts/world/maps/16x16test.tmx": {
+            "expandedObjectLayers": [
+                2,
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 319.5,
+                "y": 239.5
+            }
+        },
+        "C:/Users/Administrator/Downloads/Kristal/mods/_testmod/scripts/world/tilesets/smw.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
         "scripts/world/maps/hometown/apartments/apartments.tmx": {
             "scale": 0.125,
             "selectedLayer": 2,
@@ -175,11 +226,11 @@
             }
         },
         "scripts/world/maps/hometown/krisyard/krisyard.tmx": {
-            "scale": 0.09,
-            "selectedLayer": 5,
+            "scale": 2,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 327.7777777777778,
-                "y": 416.6666666666665
+                "x": 357.5,
+                "y": 370.5
             }
         },
         "scripts/world/maps/hometown/school/kris_class/kris_class.tmx": {
@@ -283,8 +334,8 @@
             "scale": 1,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 787,
-                "y": 363
+                "x": 634,
+                "y": 239.5
             }
         },
         "scripts/world/maps/hometown/town_church/town_church.tmx": {
@@ -316,15 +367,15 @@
         },
         "scripts/world/maps/hometown/town_north/town_north.tmx": {
             "expandedObjectLayers": [
-                45,
                 25,
+                45,
                 16
             ],
             "scale": 1,
             "selectedLayer": 22,
             "viewCenter": {
-                "x": 3094,
-                "y": 219
+                "x": 1796,
+                "y": 260.5
             }
         },
         "scripts/world/maps/hometown/town_school/town_school.tmx": {
@@ -372,24 +423,40 @@
             "scaleInDock": 1
         }
     },
+    "frame.defaultDuration": 250,
+    "last.exportedFilePath": "C:/Users/Administrator/AppData/Roaming/LOVE/kristal/mods/evilstuff/scripts/world/maps",
+    "last.imagePath": "C:/Users/Administrator/AppData/Roaming/LOVE/kristal/mods/evilstuff/assets/sprites/tilesets",
+    "lastUsedTilesetExportFilter": "Ficheiros Lua (*.lua)",
+    "map.height": 15,
+    "map.lastUsedExportFilter": "Ficheiros Lua (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 40,
+    "map.tileWidth": 40,
+    "map.width": 20,
     "openFiles": [
-        "scripts/world/maps/hometown/town_beach/town_beach.tmx",
-        "scripts/world/maps/hometown/town_north/town_north.tmx"
+        "C:/Users/Administrator/Downloads/Kristal/mods/_testmod/scripts/world/maps/16x16test.tmx",
+        "C:/Users/Administrator/AppData/Roaming/LOVE/kristal/mods/evilstuff/scripts/world/maps/lever.tmx",
+        "C:/Users/Administrator/AppData/Roaming/LOVE/kristal/mods/evilstuff/scripts/world/tilesets/mansion.tsx"
     ],
     "project": "",
     "property.type": "bool",
     "recentFiles": [
+        "C:/Users/Administrator/AppData/Roaming/LOVE/kristal/mods/evilstuff/scripts/world/tilesets/mansion.tsx",
+        "C:/Users/Administrator/AppData/Roaming/LOVE/kristal/mods/evilstuff/scripts/world/maps/lever.tmx",
+        "C:/Users/Administrator/Downloads/Kristal/mods/_testmod/scripts/world/maps/16x16test.tmx",
+        "C:/Users/Administrator/AppData/Roaming/LOVE/kristal/mods/evilstuff/scripts/world/tilesets/mansionacid.tsx",
+        "C:/Users/Administrator/AppData/Roaming/LOVE/kristal/mods/evilstuff/scripts/world/tilesets/acidanimated.tsx",
+        "C:/Users/Administrator/AppData/Roaming/LOVE/kristal/mods/evilstuff/scripts/world/tilesets/acidfountain.tsx",
         "scripts/world/maps/hometown/town_north/town_north.tmx",
         "scripts/world/maps/hometown/town_beach/town_beach.tmx",
         "scripts/world/maps/hometown/krisyard/krisyard.tmx",
         "scripts/world/maps/hometown/town_graveyard/town_graveyard.tmx",
         "scripts/world/maps/hometown/town_shelter/town_shelter.tmx",
-        "scripts/world/maps/hometown/town_church/town_church.tmx",
-        "scripts/world/maps/hometown/apartments/apartments.tmx",
-        "scripts/world/maps/hometown/town_school/town_school.tmx",
-        "scripts/world/maps/hometown/town_south/town_south.tmx",
-        "scripts/world/maps/hometown/town_mid/town_mid.tmx",
-        "scripts/world/maps/hometown/interior/hospital_room2/hospital_room2.tmx",
-        "scripts/world/maps/hometown/interior/hospital_rudy/hospital_rudy.tmx"
-    ]
+        "scripts/world/maps/hometown/town_church/town_church.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 40,
+        "width": 40
+    }
 }
