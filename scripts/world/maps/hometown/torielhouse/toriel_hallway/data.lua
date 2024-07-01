@@ -166,7 +166,7 @@ return {
           rotation = 0,
           visible = true,
           properties = {
-            ["offset"] = "10"
+            ["offset"] = 14
           }
         },
         {

@@ -23,7 +23,7 @@ return {
   },
   properties = {},
   wangsets = {},
-  tilecount = 63,
+  tilecount = 64,
   tiles = {
     {
       id = 1,
@@ -402,6 +402,12 @@ return {
       image = "../../../assets/sprites/tilesets/objects/asgore_car.png",
       width = 146,
       height = 110
+    },
+    {
+      id = 65,
+      image = "../../../assets/sprites/world/maps/hometown/shelter.png",
+      width = 418,
+      height = 240
     }
   }
 }

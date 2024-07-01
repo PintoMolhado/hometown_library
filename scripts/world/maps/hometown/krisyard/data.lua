@@ -10,7 +10,7 @@ return {
   tilewidth = 40,
   tileheight = 40,
   nextlayerid = 16,
-  nextobjectid = 19,
+  nextobjectid = 23,
   properties = {
     ["border"] = "leaves",
     ["light"] = true,
@@ -408,24 +408,6 @@ return {
           properties = {}
         },
         {
-          id = 8,
-          name = "",
-          type = "",
-          shape = "polygon",
-          x = 160,
-          y = 600,
-          width = 0,
-          height = 0,
-          rotation = 0,
-          visible = true,
-          polygon = {
-            { x = 0, y = 0 },
-            { x = -120, y = -80 },
-            { x = -120, y = 0 }
-          },
-          properties = {}
-        },
-        {
           id = 12,
           name = "",
           type = "",
@@ -488,6 +470,24 @@ return {
           height = 108,
           rotation = 0,
           visible = true,
+          properties = {}
+        },
+        {
+          id = 22,
+          name = "",
+          type = "",
+          shape = "polygon",
+          x = 40,
+          y = 520,
+          width = 0,
+          height = 0,
+          rotation = 0,
+          visible = true,
+          polygon = {
+            { x = 0, y = 0 },
+            { x = 160, y = 80 },
+            { x = 0, y = 80 }
+          },
           properties = {}
         }
       }
